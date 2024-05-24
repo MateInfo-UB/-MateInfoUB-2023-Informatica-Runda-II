@@ -1,1 +1,1 @@
-# -MateInfoUB-2023-Informatica-Runda-II
+# MateInfoUB-2023-Informatica-Runda-II
